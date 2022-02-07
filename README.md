@@ -1,6 +1,6 @@
 #  CHALLENGE detect season according to user location using google API
 
-![image](https://user-images.githubusercontent.com/28525061/152877087-144f6d23-cf33-4d1f-8f6a-fab226541810.png)
+![image](https://user-images.githubusercontent.com/28525061/152877179-b885015c-3924-4744-9bd2-bed2ac374419.png)
 
 
 # Getting Started with Create React App
